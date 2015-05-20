@@ -1,4 +1,4 @@
-<<<<<<< .mineBonjour
-Barnabas=======Bonsoir
+Bonjour
+Barnabas
+Bonsoir
 Jean
->>>>>>> .theirs
